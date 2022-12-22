@@ -1,0 +1,15 @@
+{
+ "products": [
+    {
+      "name": "Ahmet",
+      "price": "try. 500",
+      "brand": "Turkuaz",
+      "category": {
+        "usertype": {
+          "usertype": "Women"
+        },
+        "category": "Tops"
+      }
+    }
+  ]
+}
